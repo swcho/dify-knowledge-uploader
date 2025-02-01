@@ -8,3 +8,6 @@ git push -u origin main
 
 : 1738360305:0;npm run test
 : 1738387600:0;npm i query-string
+: 1738395448:0;pwd
+: 1738395551:0;docker-compose down
+: 1738399237:0;docker-compose up
