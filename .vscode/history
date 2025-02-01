@@ -4,3 +4,7 @@ git push -u origin main
 : 1738359224:0;npm i commander axios glob dotenv ora chalk
 : 1738359253:0;npm i -D @types/node typescript @types/glob
 : 1738359511:0;npm run build
+: 1738360251:0;npm i vitest\
+
+: 1738360305:0;npm run test
+: 1738387600:0;npm i query-string
